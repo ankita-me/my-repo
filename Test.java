@@ -6,6 +6,5 @@ public class Test
         System.out.println("Bye ");
         System.out.println("Welcome to Hell :)  :)");
         System.out.println(" welcome to Wonderland !!!");
-        System.out.println(" HEY THERE !!!");
         System.out.println("hello");
     }}
